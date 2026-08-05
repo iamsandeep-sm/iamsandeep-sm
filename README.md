@@ -30,7 +30,7 @@
 
 <div align="center">
 
-### 🫡ABOUT ME
+### 𐀪ABOUT ME ✎﹏﹏﹏﹏
 
 I'm a software developer and web development enthusiast from **Uttarakhand, India 🇮🇳**, driven by curiosity and a steady commitment to growth.
 
@@ -66,7 +66,7 @@ I'm a software developer and web development enthusiast from **Uttarakhand, Indi
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=28&duration=3000&pause=4000&color=8A63FF&center=true&vCenter=true&width=500&height=50&repeat=true&lines=🧭+MY+JOURNEY" alt="My Journey" />
+### 👨🏼‍💻 MY JOURNEY 👨🏼‍💻
 
 *A path shaped by curiosity, patience, and steady progress.*
 
