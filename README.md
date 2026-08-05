@@ -42,7 +42,7 @@ I'm a software developer and web development enthusiast from **Uttarakhand, Indi
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=24&duration=2500&pause=2000&color=8A63FF&center=true&vCenter=true&width=350&height=40&repeat=true&lines=🛠️+QUICK+GLANCE" alt="Quick Glance" />
+### 🛠️ Quick Glance
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -76,7 +76,7 @@ I'm a software developer and web development enthusiast from **Uttarakhand, Indi
 <tr>
 <td width="45%" valign="top" align="right">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=22&duration=2500&pause=4000&color=8A63FF&vCenter=true&width=400&height=40&repeat=true&lines=🎓+CLASS+12+—+2021" alt="Class 12 — 2021" />
+### 🎓 Class 12 — 2021
 
 **The Asian Academy School, Pithoragarh**
 
@@ -100,7 +100,7 @@ Completed my Class 12 education, marking the beginning of my professional journe
 </td>
 <td width="45%" valign="top" align="left">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=22&duration=2500&pause=4000&color=8A63FF&vCenter=true&width=400&height=40&repeat=true&lines=🌍+REFLECTION+PERIOD" alt="Reflection Period" />
+### 🌍 Reflection Period
 
 After Class 12, I intentionally chose not to join college right away.
 
@@ -112,7 +112,7 @@ The COVID-19 pandemic had significantly disrupted my Class 11 and 12 education, 
 <tr>
 <td width="45%" valign="top" align="right">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=22&duration=2500&pause=4000&color=8A63FF&vCenter=true&width=400&height=40&repeat=true&lines=🎓+STARTED+BCA+—+2021" alt="Started BCA — 2021" />
+### 🎓 Started BCA — 2021
 
 **Graphic Era Hill University**
 
@@ -136,7 +136,7 @@ Joined my undergraduate program with genuine excitement about entering the world
 </td>
 <td width="45%" valign="top" align="left">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=22&duration=2500&pause=4000&color=8A63FF&vCenter=true&width=420&height=40&repeat=true&lines=💻+EXPLORING+PROGRAMMING" alt="Exploring Programming" />
+### 💻 Exploring Programming
 
 During my BCA, I explored a wide range of languages and technologies, building the foundation of my technical skillset:
 
@@ -158,7 +158,7 @@ This phase shaped how I think about programming — it built the foundation for 
 <tr>
 <td width="45%" valign="top" align="right">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=22&duration=2500&pause=4000&color=8A63FF&vCenter=true&width=420&height=40&repeat=true&lines=🎉+BCA+GRADUATION+—+2025" alt="BCA Graduation — 2025" />
+### 🎉 BCA Graduation — 2025
 
 **Bachelor of Computer Applications**
 
@@ -182,7 +182,7 @@ Completed my undergraduate degree, walking away with a stronger grasp of softwar
 </td>
 <td width="45%" valign="top" align="left">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=22&duration=2500&pause=4000&color=8A63FF&vCenter=true&width=450&height=40&repeat=true&lines=🎓+MASTER'S+JOURNEY+—+AUG+2025" alt="Master's Journey — August 2025" />
+### 🎓 Master's Journey — August 2025
 
 **Lovely Professional University**
 *Master of Computer Applications (MCA)*
@@ -195,7 +195,7 @@ Began my postgraduate journey, marking the start of specializing further in soft
 <tr>
 <td width="45%" valign="top" align="right">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=22&duration=2500&pause=4000&color=8A63FF&vCenter=true&width=400&height=40&repeat=true&lines=🚀+CURRENT+LEARNING" alt="Current Learning" />
+### 🚀 Current Learning
 
 Sharpening skills that are highly relevant to today's software industry:
 
@@ -229,7 +229,7 @@ Focused on continuous learning and translating concepts into real, working softw
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=28&duration=2500&pause=2000&color=8A63FF&center=true&vCenter=true&width=350&height=45&repeat=true&lines=🧰+TECH+STACK" alt="Tech Stack" />
+## 🧰 Tech Stack
 
 <br/>
 
@@ -257,7 +257,7 @@ Focused on continuous learning and translating concepts into real, working softw
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=28&duration=2500&pause=2000&color=8A63FF&center=true&vCenter=true&width=420&height=45&repeat=true&lines=📊+GITHUB+ANALYTICS" alt="GitHub Analytics" />
+## 📊 GitHub Analytics
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamsandeep-sm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A63FF&icon_color=8A63FF&text_color=c9d1d9" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsandeep-sm&theme=tokyonight&hide_border=true&background=0d1117&ring=8A63FF&fire=8A63FF&currStreakLabel=8A63FF" />
@@ -290,7 +290,7 @@ Focused on continuous learning and translating concepts into real, working softw
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=28&duration=2500&pause=2000&color=8A63FF&center=true&vCenter=true&width=480&height=45&repeat=true&lines=💭+DEVELOPER+PHILOSOPHY" alt="Developer Philosophy" />
+## 💭 Developer Philosophy
 
 > *"Good code, like good learning, is built in small, deliberate commits — not sudden leaps. I'd rather understand deeply than move quickly."*
 
@@ -304,7 +304,7 @@ Focused on continuous learning and translating concepts into real, working softw
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=28&duration=2500&pause=2000&color=8A63FF&center=true&vCenter=true&width=420&height=45&repeat=true&lines=🤝+CONNECT+WITH+ME" alt="Connect With Me" />
+## 🤝 Connect With Me
 
 <a href="https://github.com/iamsandeep-sm">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
