@@ -28,7 +28,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=28&duration=2500&pause=2000&color=8A63FF&vCenter=true&width=350&height=45&repeat=true&lines=👋+ABOUT+ME" alt="About Me" />
+<div align="center">
+
+### 🫡ABOUT ME
 
 I'm a software developer and web development enthusiast from **Uttarakhand, India 🇮🇳**, driven by curiosity and a steady commitment to growth.
 
