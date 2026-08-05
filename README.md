@@ -1,17 +1,30 @@
 <div align="center">
 
-<!-- Animated header banner -->
-# ˜”*°•.˜”*°• SANDEEP SINGH MEHTA •°*”˜.•°*”˜
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=header"/>
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8A63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sandeep+%F0%9F%91%8B;Software+%26+Web+Developer;MCA+Student+%40+LPU;Curious+%7C+Consistent+%7C+Always+Learning" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=38&duration=1&pause=100000&color=8A63FF&center=true&vCenter=true&width=800&height=60&lines=SANDEEP+SINGH+MEHTA" alt="Sandeep Singh Mehta" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=B9B9FF&center=true&vCenter=true&width=650&lines=Software+%26+Web+Developer;MCA+Student+%40+LPU;Curious+%7C+Consistent+%7C+Always+Learning" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/📍_Location-Uttarakhand,_India_🇮🇳-8A63FF?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/🎓_Currently-MCA_@_LPU-8A63FF?style=for-the-badge&labelColor=1a1a2e" />
+
+<br/><br/>
+
+<a href="https://github.com/iamsandeep-sm">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sandeep-singh-mehta-a5695824b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/sandeep.sm.05/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:sandeepsinghmehta.2003@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -19,7 +32,7 @@
 
 ## 👋 About Me
 
-I'm **Sandeep Singh Mehta**, a software developer and web development enthusiast from **Uttarakhand, India 🇮🇳**, driven by curiosity and a steady commitment to growth.
+I'm a software developer and web development enthusiast from **Uttarakhand, India 🇮🇳**, driven by curiosity and a steady commitment to growth.
 
 - 🎓 Graduated with a **Bachelor of Computer Applications (BCA)** from **Graphic Era Hill University**
 - 📚 Currently pursuing a **Master of Computer Applications (MCA)** from **Lovely Professional University (LPU)**
