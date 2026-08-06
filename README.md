@@ -30,15 +30,7 @@
 
 <div align="center">
 
-### 𐀪ABOUT ME ✎﹏﹏﹏﹏
-
-I'm a software developer and web development enthusiast from **Uttarakhand, India 🇮🇳**, driven by curiosity and a steady commitment to growth.
-
-- 🎓 Graduated with a **Bachelor of Computer Applications (BCA)** from **Graphic Era Hill University**
-- 📚 Currently pursuing a **Master of Computer Applications (MCA)** from **Lovely Professional University (LPU)**
-- 🧠 I enjoy solving problems, building real-world projects, and exploring modern technologies
-- 🌱 I approach learning the way a software engineer approaches a codebase — one clean, deliberate iteration at a time
-- ⚡ Consistency over intensity — that's the principle I build my growth around
+<img src="https://raw.githubusercontent.com/iamsandeep-sm/iamsandeep-sm/main/assets/about-me.svg" width="100%" alt="About Me" />
 
 <br/>
 
@@ -66,164 +58,12 @@ I'm a software developer and web development enthusiast from **Uttarakhand, Indi
 
 <div align="center">
 
-### 👨🏼‍💻 MY JOURNEY 👨🏼‍💻
+## 🚀 My Journey
 
-*A path shaped by curiosity, patience, and steady progress.*
+<img src="https://raw.githubusercontent.com/iamsandeep-sm/iamsandeep-sm/main/assets/journey-timeline.svg" width="100%" alt="My Journey Timeline" />
 
 </div>
 
-<br/>
-
-<table width="100%">
-<tr>
-<td width="45%" valign="top" align="right">
-
-### 🎓 Class 12 — 2021
-
-**The Asian Academy School, Pithoragarh**
-
-Completed my Class 12 education, marking the beginning of my professional journey.
-
-</td>
-<td width="10%" align="center" valign="top">
-
-🟣<br/>┃<br/>┃
-
-</td>
-<td width="45%"></td>
-</tr>
-
-<tr>
-<td width="45%"></td>
-<td width="10%" align="center" valign="top">
-
-┃<br/>🔵<br/>┃
-
-</td>
-<td width="45%" valign="top" align="left">
-
-### 🌍 Reflection Period
-
-After Class 12, I intentionally chose not to join college right away.
-
-The COVID-19 pandemic had significantly disrupted my Class 11 and 12 education, slowing my academic momentum. Rather than rushing forward, I took this time to rethink my career direction, prepare for entrance exams, and grow personally — a deliberate pause for self-discovery, not a gap.
-
-</td>
-</tr>
-
-<tr>
-<td width="45%" valign="top" align="right">
-
-### 🎓 Started BCA — 2021
-
-**Graphic Era Hill University**
-
-Joined my undergraduate program with genuine excitement about entering the world of computer science.
-
-</td>
-<td width="10%" align="center" valign="top">
-
-┃<br/>🟣<br/>┃
-
-</td>
-<td width="45%"></td>
-</tr>
-
-<tr>
-<td width="45%"></td>
-<td width="10%" align="center" valign="top">
-
-┃<br/>🔵<br/>┃
-
-</td>
-<td width="45%" valign="top" align="left">
-
-### 💻 Exploring Programming
-
-During my BCA, I explored a wide range of languages and technologies, building the foundation of my technical skillset:
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![DSA](https://img.shields.io/badge/DSA-4B32C3?style=flat-square&logo=leetcode&logoColor=white)
-
-This phase shaped how I think about programming — it built the foundation for everything I do today.
-
-</td>
-</tr>
-
-<tr>
-<td width="45%" valign="top" align="right">
-
-### 🎉 BCA Graduation — 2025
-
-**Bachelor of Computer Applications**
-
-Completed my undergraduate degree, walking away with a stronger grasp of software development and problem-solving.
-
-</td>
-<td width="10%" align="center" valign="top">
-
-┃<br/>🟣<br/>┃
-
-</td>
-<td width="45%"></td>
-</tr>
-
-<tr>
-<td width="45%"></td>
-<td width="10%" align="center" valign="top">
-
-┃<br/>🔵<br/>┃
-
-</td>
-<td width="45%" valign="top" align="left">
-
-### 🎓 Master's Journey — August 2025
-
-**Lovely Professional University**
-*Master of Computer Applications (MCA)*
-
-Began my postgraduate journey, marking the start of specializing further in software engineering and modern technologies.
-
-</td>
-</tr>
-
-<tr>
-<td width="45%" valign="top" align="right">
-
-### 🚀 Current Learning
-
-Sharpening skills that are highly relevant to today's software industry:
-
-**Data Structures & Algorithms (Python)** · **AWS Cloud Computing** · **Generative AI**
-
-Focused on continuous learning and translating concepts into real, working software.
-
-</td>
-<td width="10%" align="center" valign="top">
-
-┃<br/>🟢
-
-</td>
-<td width="45%" valign="top" align="left">
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=py,aws" />
-
-🧬 **Generative AI**
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ---
 
