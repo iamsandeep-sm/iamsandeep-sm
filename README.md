@@ -101,10 +101,7 @@
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsandeep-sm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A63FF&text_color=c9d1d9" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamsandeep-sm&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8A63FF&line=8A63FF&point=ffffff" width="90%"/>
-
+<img height="165" src="https://streak-stats.demolab.com/?user=iamsandeep-sm&theme=tokyonight&hide_border=true&background=0d1117&ring=8A63FF&fire=8A63FF&currStreakLabel=8A63FF" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamsandeep-sm&hide_border=true&bg_color=0d1117&color=8A63FF&line=8A63FF&point=ffffff" width="90%"/> </div> <br/>
 </div>
 
 <br/>
