@@ -1,6 +1,6 @@
 ### Hey, I'm Sandeep Singh Mehta
 
-I'm a boy from Uttarakhand, India, who loves working on computers. I spend my time on tech and code, and I like building whatever I imagine, especially things that make life easier. I'm currently doing my MCA at [Lovely Professional University](https://www.lpu.in/).
+I'm a boy from Uttarakhand, India, who loves working on computers. I spend my time on tech and code, always tinkering with code and expanding my horizons to build whatever i imagine—especially things that make life easier. I'm currently doing my MCA at [Lovely Professional University](https://www.lpu.in/).
 
 - Graduated with a **Bachelor of Computer Applications (BCA)** from Graphic Era Hill University (2021 - 2025)
 - Pursuing a **Master of Computer Applications (MCA)** at Lovely Professional University (since August 2025)
