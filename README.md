@@ -37,7 +37,7 @@ Add your current projects here, one line each, for example:
 
 - **2021** - Completed Class 12 at The Asian Academy School, Pithoragarh
 - **2021** - Took a deliberate pause to rethink my career direction and prepare for entrance exams, after COVID-19 disrupted Class 11 and 12
-- **2021** - Started BCA at Graphic Era Hill University and explored C, C++, C#, Java, Python, HTML5, CSS3, JavaScript and DSA
+- **2022** - Started BCA at Graphic Era Hill University and explored C, C++, C#, Java, Python, HTML5, CSS3, JavaScript and DSA
 - **2025** - Graduated with a BCA
 - **August 2025** - Began MCA at Lovely Professional University
 
