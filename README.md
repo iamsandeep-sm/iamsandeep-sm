@@ -8,14 +8,21 @@ I'm a boy from Uttarakhand, India, who loves working on computers. I spend my ti
 - I learn the way an engineer works on a codebase: one clean, deliberate step at a time
 - I believe in consistency over intensity
 
-#### What I'm working on
+<div align="center">
 
-- Building real-world projects that make everyday life easier
+#### git status --short [ Repositories I'm actively building and updating ]
+
+| Repository | Description | Tech | Status |
+| :--- | :--- | :--- | :---: |
+| [**python-core**](https://github.com/iamsandeep-sm/python-core) | A curated collection of Python notes, code examples, practice questions and revision material documenting my learning journey. | Python | ![In Progress](https://img.shields.io/badge/In%20Progress-8A63FF?style=flat-square) |
+| [**python-dsa-blueprint**](https://github.com/iamsandeep-sm/python-dsa-blueprint) | A structured, step-by-step roadmap tracking my solutions to 357 practice questions across Python fundamentals and core Data Structures & Algorithms. | Python | ![In Progress](https://img.shields.io/badge/In%20Progress-8A63FF?style=flat-square) |
+| [**logic-craft**](https://github.com/iamsandeep-sm/logic-craft) | Exercises that build programming logic and problem-solving fundamentals, laying the groundwork before diving deep into DSA. | Python | ![In Progress](https://img.shields.io/badge/In%20Progress-8A63FF?style=flat-square) |
 
 <!--
-Add your current projects here, one line each, for example:
-- **[iamsandeep-sm/project-name](https://github.com/iamsandeep-sm/project-name)** - One line about what it does
+![Completed](https://img.shields.io/badge/Completed-2ea043?style=flat-square)
 -->
+<sub>Active builds under development. Commits and source code incoming upon feature completion</sub>
+</div>
 
 #### What I'm learning
 
