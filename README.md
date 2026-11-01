@@ -8,6 +8,47 @@ I'm a boy from Uttarakhand, India, who loves working on computers. I spend my ti
 - I learn the way an engineer works on a codebase: one clean, deliberate step at a time
 - I believe in consistency over intensity
 
+<p align="center">✦</p>
+<div align="center">
+
+ **August 2025 – Present** | **Master of Computer Applications (MCA)**  
+  *Lovely Professional University*
+
+**2022 – 2025** | **Bachelor of Computer Applications (BCA)**  
+  *Graphic Era Hill University*
+  
+   **Core Focus:** Specialized in core software development with a primary focus on **Python**.
+  
+   **Foundations:** Built strong roots in DSA and explored full-stack languages (C, C++, C#, Java, HTML5, CSS3, JavaScript).
+
+ **2021 – 2022** | **Career Transition & Entrance Preparation**  
+   Dedicated a gap year to career exploration, self-directed learning, and academic entrance exam preparation following pandemic disruptions.
+
+**2021** | **High School Graduation (Class 12)**  
+  *The Asian Academy School, Pithoragarh*
+
+-- ~ --
+#### What I'm learning
+
+ ~ **Data Structures and Algorithms** in Python, to build strong problem-solving fundamentals
+
+ ~ **AWS Cloud Computing**, to understand how modern software is deployed and run
+
+ ~ **Generative AI**, to explore how it can be used to build useful things
+
+
+
+#### Tech I work with
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,js,aws" />
+
+<br/>
+
+</div>
+
+---
+<p align="center">✦</p>
+
 <div align="center">
 
 #### git status --short [ Repositories I'm actively building and updating ]
@@ -24,41 +65,24 @@ I'm a boy from Uttarakhand, India, who loves working on computers. I spend my ti
 <sub>Active builds under development. Commits and source code incoming upon feature completion</sub>
 </div>
 
-#### What I'm learning
 
-- **Data Structures and Algorithms** in Python, to build strong problem-solving fundamentals
-- **AWS Cloud Computing**, to understand how modern software is deployed and run
-- **Generative AI**, to explore how it can be used to build useful things
+
 
 <div align="center">
 
-#### Tech I work with
-
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,js,aws" />
-
-<br/>
-
-</div>
-
-#### My journey
-
-- **2021** - Completed Class 12 at The Asian Academy School, Pithoragarh
-- **2021** - Took a deliberate pause to rethink my career direction and prepare for entrance exams, after COVID-19 disrupted Class 11 and 12
-- **2022** - Started BCA at Graphic Era Hill University and explored C, C++, C#, Java, Python, HTML5, CSS3, JavaScript and DSA
-- **2025** - Graduated with a BCA
-- **August 2025** - Began MCA at Lovely Professional University
-
-<div align="center">
+<p align="center">✦</p>
 
 #### Find me
 
-<a href="https://github.com/iamsandeep-sm"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sandeep-singh-mehta-a5695824b"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/iamsandeep-sm"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/sandeep.sm.05/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:sandeepsinghmehta.2003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 
 <br/>
 
+---
+<p align="center">✦</p>
 
 #### GitHub streak
 
