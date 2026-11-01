@@ -2,11 +2,9 @@
 
 I'm a boy from Uttarakhand, India, who loves working on computers. I spend my time on tech and code, always tinkering with code and expanding my horizons to build whatever i imagine—especially things that make life easier. I'm currently doing my MCA at [Lovely Professional University](https://www.lpu.in/).
 
-- Graduated with a **Bachelor of Computer Applications (BCA)** from Graphic Era Hill University (2021 - 2025)
-- Pursuing a **Master of Computer Applications (MCA)** at Lovely Professional University (since August 2025)
-- I love solving problems and turning ideas into small, useful projects
-- I learn the way an engineer works on a codebase: one clean, deliberate step at a time
-- I believe in consistency over intensity
+* **Execution:** Turning abstract concepts into functional, lightweight software utilities.
+* **Code Quality:** Focused on mastering developer workflows and architectural practices—one deliberate step at a time.
+* **Daily Discipline:** Committed to continuous learning, prioritizing long-term consistency over short-term intensity.
 
 <p align="center">✦</p>
 <div align="center">
