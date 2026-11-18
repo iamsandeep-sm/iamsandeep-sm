@@ -84,7 +84,7 @@ I'm a boy from Uttarakhand, India, who loves working on computers. I spend my ti
 
 #### GitHub streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iamsandeep-sm)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iamsandeep-sm&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 #### Activity-Graph
 
