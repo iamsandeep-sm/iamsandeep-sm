@@ -54,8 +54,8 @@ I'm a boy from Uttarakhand, India, who loves working on computers. I spend my ti
 | Repository | Description | Tech | Status |
 | :--- | :--- | :--- | :---: |
 | [**python-core**](https://github.com/iamsandeep-sm/python-core) | A curated collection of Python notes, code examples, practice questions and revision material documenting my learning journey. | Python | [Completed] |
-| [**python-dsa-blueprint**](https://github.com/iamsandeep-sm/python-dsa-blueprint) | A structured, step-by-step roadmap tracking my solutions to 357 practice questions across Python fundamentals and core Data Structures & Algorithms. | Python | [In Progress] |
-| [**logic-craft**](https://github.com/iamsandeep-sm/logic-craft) | A comprehensive collection of 120 practice problems designed to master loops, iteration, and dry-run thinking before diving into Data Structures and Algorithms (DSA). Covered topics include while, do-while, for loops, mathematical series, and pattern printing | Python | [In Progress] |
+| [**python-dsa-blueprint**](https://github.com/iamsandeep-sm/python-dsa-blueprint) | A structured, step-by-step roadmap tracking my solutions to 357 practice questions across Python fundamentals and core Data Structures & Algorithms. | Python | [Working] |
+| [**logic-craft**](https://github.com/iamsandeep-sm/logic-craft) | A comprehensive collection of 120 practice problems designed to master loops, iteration, and dry-run thinking before diving into Data Structures and Algorithms (DSA). Covered topics include while, do-while, for loops, mathematical series, and pattern printing | Python | [Working] |
 
 <sub>Active builds under development. Commits and source code incoming upon feature completion</sub>
 </div>
