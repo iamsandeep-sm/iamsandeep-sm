@@ -1,6 +1,6 @@
 ### Hey, I'm Sandeep Singh Mehta
 
-I'm a boy from Uttarakhand, India, who loves working on computers. I spend my time on tech and code, always tinkering with code and expanding my horizons to build whatever i imagine—especially things that make life easier. I'm currently doing my MCA at [Lovely Professional University](https://www.lpu.in/).
+I'm a boy from Uttarakhand, India, who loves working on computers. I spend my time on tech and code, always tinkering with code and expanding my horizons to build whatever I imagine—especially things that make life easier. I'm currently doing my MCA at [Lovely Professional University](https://www.lpu.in/).
 
 * **Execution:** Turning abstract concepts into functional, lightweight software utilities.
 * **Code Quality:** Focused on mastering developer workflows and architectural practices—one deliberate step at a time.
@@ -18,12 +18,6 @@ I'm a boy from Uttarakhand, India, who loves working on computers. I spend my ti
    **Core Focus:** Specialized in core software development with a primary focus on **Python**.
   
    **Foundations:** Built strong roots in DSA and explored full-stack languages (C, C++, C#, Java, HTML5, CSS3, JavaScript).
-
- **2021 – 2022** | **Career Transition & Entrance Preparation**  
-   Dedicated a gap year to career exploration, self-directed learning, and academic entrance exam preparation following pandemic disruptions.
-
-**2021** | **High School Graduation (Class 12)**  
-  *The Asian Academy School, Pithoragarh*
 
 -- ~ --
 #### What I'm learning
@@ -53,9 +47,9 @@ I'm a boy from Uttarakhand, India, who loves working on computers. I spend my ti
 
 | Repository | Description | Tech | Status |
 | :--- | :--- | :--- | :---: |
-| [**python-core**](https://github.com/iamsandeep-sm/python-core) | A curated collection of Python notes, code examples, practice questions and revision material documenting my learning journey. | Python | [Completed] |
-| [**python-dsa-blueprint**](https://github.com/iamsandeep-sm/python-dsa-blueprint) | A structured, step-by-step roadmap tracking my solutions to 357 practice questions across Python fundamentals and core Data Structures & Algorithms. | Python | [Working] |
-| [**logic-craft**](https://github.com/iamsandeep-sm/logic-craft) | A comprehensive collection of 120 practice problems designed to master loops, iteration, and dry-run thinking before diving into Data Structures and Algorithms (DSA). Covered topics include while, do-while, for loops, mathematical series, and pattern printing | Python | [Working] |
+| [**python-core**](https://github.com/iamsandeep-sm/python-core) | A curated collection of Python notes, code examples, practice questions and revision material documenting my learning journey. | Python | Active |
+| [**python-dsa-blueprint**](https://github.com/iamsandeep-sm/python-dsa-blueprint) | A structured, step-by-step roadmap tracking my solutions to 357 practice questions across Python fundamentals and core Data Structures & Algorithms. | Python | Working |
+| [**logic-craft**](https://github.com/iamsandeep-sm/logic-craft) | A comprehensive collection of 120 practice problems designed to master loops, iteration, and dry-run thinking before diving into Data Structures and Algorithms (DSA). Covered topics include while, do-while, for loops, mathematical series, and pattern printing | Python | Working |
 
 <sub>Active builds under development. Commits and source code incoming upon feature completion</sub>
 </div>
@@ -70,7 +64,6 @@ I'm a boy from Uttarakhand, India, who loves working on computers. I spend my ti
 #### Find me
 
 <a href="https://www.linkedin.com/in/sandeep-singh-mehta-a5695824b"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/iamsandeep-sm"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/sandeep.sm.05/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:sandeepsinghmehta.2003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 
